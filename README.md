@@ -1,5 +1,7 @@
 # turbo-max-vpn
 
+<img src="https://github.com/SherekiaPuran/turbo-max-vpn/blob/main/tm.png"/>
+
 *Turbo Max VPN is a 100% fast, unlimited, stable VPN. It hides and changes your IP address, encrypts your internet traffic, turns public Wi-Fi into a private network, bypasses Internet censorship, overcomes geo-restrictions, grants access to the desired content, and unblocks sites, apps, games & global video streaming to let you access any restricted content safely and anonymously. Download Turbo Max VPN now to enjoy fast, private and safe internet*
 
 *No logging of your network activity.You can use our product We never pay for reviews and do not have an affiliate program, so you won’t find us on the ‘top 10 best VPN’ lists..*
@@ -42,3 +44,4 @@
 
 *Let's get the access to online freedom and security with Turbo Max VPN browser extension. Protect your online activities and help you browse your favorite sites!*
 
+<img src="https://github.com/SherekiaPuran/turbo-max-vpn/blob/main/d2.png"/>
