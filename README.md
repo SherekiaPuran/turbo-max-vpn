@@ -44,4 +44,4 @@
 
 *Let's get the access to online freedom and security with Turbo Max VPN browser extension. Protect your online activities and help you browse your favorite sites!*
 
-<img src="https://github.com/SherekiaPuran/turbo-max-vpn/blob/main/d2.png"/>
+[<img src="https://github.com/SherekiaPuran/turbo-max-vpn/blob/main/d2.png"/>](https://ampedup.autos/?keyword=turbo_vpn)
